@@ -4,7 +4,7 @@ parent: Main Navigation
 nav_order: 6
 ---
 
-# External Links
+# External Links {#external-links}
 
 To add external links to the navigation, add them to the `nav_external_links` [configuration]({% link docs/configuration.md %}) option in your site's `_config.yml` file.
 External links will appear in the navigation after the links to ordinary pages, but before any collections.
