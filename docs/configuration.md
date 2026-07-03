@@ -127,8 +127,7 @@ New (v0.4.0)
 External links can be added to the navigation through the `nav_external_links` option.
 
 [//]: # (See [Navigation Structure]&#40;{% link docs/navigation/main/external.md %}&#41; for more details.)
-See [Navigation Structure - external-links](#external-links) for more details.
-See [Navigation Structure - docs/navigation/main/external](docs/navigation/main/external) for more details.
+See [Navigation Structure - ../navigation/main/external](../navigation/main/external) for more details.
 
 ## Footer content
 
